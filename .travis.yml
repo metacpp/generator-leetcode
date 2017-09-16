@@ -1,0 +1,10 @@
+# Build matrix / environment variable are explained on:
+# http://about.travis-ci.org/docs/user/build-configuration/
+# This file can be validated on:
+# http://lint.travis-ci.org/
+
+language: node_js
+node_js:
+  - stable
+install:
+  - npm install

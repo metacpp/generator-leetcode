@@ -1,0 +1,33 @@
+{
+  "name": "generator-leetcode",
+  "version": "0.1.0",
+  "description": "Create a leetcode project for specified language.",
+  "author": {
+    "name": "Su Shi",
+    "url": "https://github.com/metacpp/generator-leetcode"
+  },
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator",
+    "scaffold",
+    "leetcode",
+    "algorithm",
+    "interview"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/metacpp/generator-leetcode"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "generator-license": "^5.1.0",
+    "inquirer-npm-name": "^2.0.0",
+    "lodash": "^4.17.4",
+    "yeoman-generator": "^1.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/metacpp/generator-leetcode/issues"
+  }
+}
